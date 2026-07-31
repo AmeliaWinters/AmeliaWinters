@@ -1,26 +1,30 @@
 # Amelia Winters
  
-Full-stack engineer, four years on production B2B SaaS. I work on the parts of delivery that stop things
-breaking: CI/CD pipelines, static analysis, test automation and release safety.
+full-stack ai engineer, ~4 years on production B2B SaaS. i work on the stuff that keeps things from breaking, then go home and run three more services that could.
  
-Currently at The Access Group, across .NET/C# services and TypeScript front-ends on Azure.
+### things i run
  
-### What I've been doing
+**[Commandle](https://commandle.app)** · open source
  
-- Reworked Azure DevOps pipelines and deployment patterns: build times halved, defects reaching production down 95%
-- Raised automated test coverage on a feature area from 20% to 75%
-- Embedded SonarQube and Dependabot into the pipeline, triaging findings and tuning rules to keep the signal worth reading
-- Built LLM agent automation and wired it into delivery pipelines
-- Mentor engineers on SOLID design, code review, and reviewing AI-generated code properly
-### Outside work
+daily Magic: The Gathering guessing game, eight modes
  
-I build and run a few production services on my own: a UK-wide healthcare directory, a community events
-platform, and [Commandle](https://commandle.app), a daily Magic: The Gathering guessing game with eight
-game modes and a data pipeline behind it.
+**UK-wide healthcare directory** · private
  
-Most of these repositories are private, so my contribution graph is a better guide than the repo list here.
+crowdsourced practice reviews. holds special-category personal data, so access control and data minimisation. moderation queue, abuse reporting.
  
-### Stack
+**community events platform** · private
+ 
+events and listings for a not-for-profit, accessibility-first. alerting, analytics,
+deploys.
+ 
+most of my repos are private, so the contribution graph says more than the repo list.
+ 
+### day job
+ 
+The Access Group since 2022. .NET/C# and TypeScript on Azure, and mentoring juniors on proper AI use. halved build times, cut prod
+defects 95%, test coverage 20% to 75%, built LLM agents into our delivery pipelines etc etc
+ 
+### stack
  
 C#, .NET (ASP.NET Core), TypeScript, JavaScript, React, Next.js, Python, Java, SQL, Bash/PowerShell
 Azure, AWS, Docker, GitHub Actions, Azure DevOps, SonarQube, Dependabot
