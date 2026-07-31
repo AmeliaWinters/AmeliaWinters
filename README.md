@@ -1,34 +1,15 @@
 # Amelia Winters
  
-full-stack ai engineer, ~4 years on production B2B SaaS. i work on the stuff that keeps things from breaking, then go home and run three more services that could.
+i build things other people have to be able to rely on, cause somebody has to. i also make games, cause they're fun
  
-### things i run
+**two things i run and can't show you**
  
-**[Commandle](https://commandle.app)** · open source
- 
-daily Magic: The Gathering guessing game, eight modes
- 
-**UK-wide healthcare directory** · private
- 
-crowdsourced practice reviews. holds special-category personal data, so access control and data minimisation. moderation queue, abuse reporting.
- 
-**community events platform** · private
- 
-events and listings for a not-for-profit, accessibility-first. alerting, analytics,
-deploys.
- 
-most of my repos are private, so the contribution graph says more than the repo list.
- 
-### day job
- 
-The Access Group since 2022. .NET/C# and TypeScript on Azure, and mentoring juniors on proper AI use. halved build times, cut prod
-defects 95%, test coverage 20% to 75%, built LLM agents into our delivery pipelines etc etc
- 
-### stack
- 
-C#, .NET (ASP.NET Core), TypeScript, JavaScript, React, Next.js, Python, Java, SQL, Bash/PowerShell
-Azure, AWS, Docker, GitHub Actions, Azure DevOps, SonarQube, Dependabot
- 
+a uk healthcare directory holding special-category personal data. access control, cybersecurity, data
+minimisation and the wholeshebang. somehow there wasnt a single bug on launch (!)
+
+a community events platform for a uk charity 
+
 ---
- 
+
 [ameliawintersdev@gmail.com](mailto:ameliawintersdev@gmail.com) · [LinkedIn](https://linkedin.com/in/ameliadev)
+ 
